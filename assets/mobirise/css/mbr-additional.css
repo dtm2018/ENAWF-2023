@@ -755,40 +755,6 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-tCLigm9IzQ {
-  background-color: #ffffff;
-}
-.cid-tCLigm9IzQ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tCLigm9IzQ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tCLigm9IzQ .text-wrapper {
-  padding: 1rem;
-}
-@media (max-width: 991px) {
-  .cid-tCLigm9IzQ .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tCLigm9IzQ img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-tCLigm9IzQ .text-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-tCLigm9IzQ .mbr-section-title DIV {
-  text-align: left;
-}
 .cid-tCKVsvfZgH {
   padding-top: 6rem;
   padding-bottom: 6rem;
