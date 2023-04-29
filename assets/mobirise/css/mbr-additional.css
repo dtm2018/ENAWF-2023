@@ -883,11 +883,6 @@ a {
   padding-bottom: 3rem;
   background-color: #fafafa;
 }
-@media (min-width: 991px) {
-  .cid-tCKM30KDcl .container-fluid {
-    padding-left: 0;
-  }
-}
 .cid-tCKM30KDcl .mbr-text,
 .cid-tCKM30KDcl .mbr-section-btn {
   color: #232323;
