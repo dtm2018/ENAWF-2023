@@ -49,7 +49,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "b6ugr55hzf",
+    "mbrsiteDomain": "bogybqykzd",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -61,8 +61,8 @@
     "pwa-switcher": true,
     "PWA": {
       "enabled": true,
-      "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/pwa-enawf-512x512.png",
+      "name": "ENAWF",
+      "icon": "@PROJECT_PATH@/assets/images/pwa-enawf-512x512_1.png",
       "themeColor": "#fb000e"
     }
   },
