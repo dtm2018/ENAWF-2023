@@ -49,7 +49,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "ymls7kgwou",
+    "mbrsiteDomain": "pvyjiwgyoj",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -58,9 +58,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "pwa-switcher": false,
+    "pwa-switcher": true,
     "PWA": {
-      "enabled": false,
+      "enabled": true,
       "name": "",
       "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
       "themeColor": "#fb000e"
