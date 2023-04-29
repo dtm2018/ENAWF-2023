@@ -683,7 +683,9 @@ a {
   transition: color 0.6s;
 }
 .cid-tCKIGIzie2 {
-  background-image: url("../../../assets/images/homepage-title-1-2000x1000.png");
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/hp1-2000x1000.jpg");
 }
 .cid-tCKIGIzie2 .mbr-fallback-image.disabled {
   display: none;
@@ -698,7 +700,7 @@ a {
   top: 0;
 }
 .cid-tCKIGIzie2 .mbr-section-title {
-  color: #ffffff;
+  color: #fafafa;
 }
 .cid-tCKOVtrVgY {
   padding-top: 3rem;
